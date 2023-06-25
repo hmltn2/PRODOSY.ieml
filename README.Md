@@ -8,4 +8,4 @@ b) is coded in ieml, a formally-constructed language
 
 c) works via locally hosted graphs, in a *data mesh* (more to come on that soon)
 
-It is heavily if not profoundly influenced by IEML by Pierre Levy, blockchain, formal verification languages, and ologs (ontology logs) by David Spivak, as well as the UI of Discord.)
+It is heavily if not profoundly influenced by IEML by Pierre Levy, blockchain, formal verification languages, and ologs (ontology logs) by David Spivak, as well as taking a leaf the UI of Discord, and the power of and fascination with LLMs.)
